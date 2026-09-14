@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Transactions>
+    <Transaction>
+        <Id>TX-1001</Id>
+        <Date>2026-09-12</Date>
+        <Amount>1500.50</Amount>
+        <Description>Оплата послуг Інтернет</Description>
+    </Transaction>
+    <Transaction>
+        <Id>TX-1002</Id>
+        <Date>2026-09-12</Date>
+        <Amount>-200.00</Amount>
+        <Description>Некоректна сума</Description>
+    </Transaction>
+    <Transaction>
+        <Id></Id>
+        <Date>invalid-date</Date>
+        <Amount>500</Amount>
+        <Description>Порожній Id та бита дата</Description>
+    </Transaction>
+</Transactions>
